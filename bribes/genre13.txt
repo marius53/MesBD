@@ -1,0 +1,631 @@
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<div id="plain" class="w3-panel w3-border">
+   <ol class="twocolumns">
+      <div class="grid-container" style="grid-auto-flow: row;">
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/alexandro-jodorowsky/avant-lincal-2-detective-prive-de-classe-r/bds.html"><img src="BD-FRANCAISES/alexandro-jodorowsky/avant-lincal-2-detective-prive-de-classe-r/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/alexandro-jodorowsky/avant-lincal-2-detective-prive-de-classe-r/bds.html">avant lincal 2 detective prive de classe r</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/alexandro-jodorowsky/bds.html"> Auteur: alexandro jodorowsky</a></td>
+               </tr>
+               <tr>
+                  <td> Genre No sexe</td>
+               </tr>
+               <tr>
+                  <td>45 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/denis-bodart/celestin-speculoos-1-les-affreux/bds.html"><img src="BD-FRANCAISES/denis-bodart/celestin-speculoos-1-les-affreux/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/denis-bodart/celestin-speculoos-1-les-affreux/bds.html">celestin speculoos 1 les affreux</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/denis-bodart/bds.html"> Auteur: denis bodart</a></td>
+               </tr>
+               <tr>
+                  <td> Genre No sexe</td>
+               </tr>
+               <tr>
+                  <td>47 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/denis-bodart/celestin-speculoos-2-mai-68/bds.html"><img src="BD-FRANCAISES/denis-bodart/celestin-speculoos-2-mai-68/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/denis-bodart/celestin-speculoos-2-mai-68/bds.html">celestin speculoos 2 mai 68</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/denis-bodart/bds.html"> Auteur: denis bodart</a></td>
+               </tr>
+               <tr>
+                  <td> Genre No sexe</td>
+               </tr>
+               <tr>
+                  <td>46 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/behe/double-je-1/bds.html"><img src="BD-FRANCAISES/behe/double-je-1/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/behe/double-je-1/bds.html">double je 1</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/behe/bds.html"> Auteur: behe</a></td>
+               </tr>
+               <tr>
+                  <td> Genre No sexe</td>
+               </tr>
+               <tr>
+                  <td>47 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/behe/double-je-2/bds.html"><img src="BD-FRANCAISES/behe/double-je-2/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/behe/double-je-2/bds.html">double je 2</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/behe/bds.html"> Auteur: behe</a></td>
+               </tr>
+               <tr>
+                  <td> Genre No sexe</td>
+               </tr>
+               <tr>
+                  <td>47 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/fabrice-meddour/hispanola-1-le-serum/bds.html"><img src="BD-FRANCAISES/fabrice-meddour/hispanola-1-le-serum/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/fabrice-meddour/hispanola-1-le-serum/bds.html">hispanola 1 le serum</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/fabrice-meddour/bds.html"> Auteur: fabrice meddour</a></td>
+               </tr>
+               <tr>
+                  <td> Genre No sexe</td>
+               </tr>
+               <tr>
+                  <td>49 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/fabrice-meddour/hispanola-2-le-grand-silencieux/bds.html"><img src="BD-FRANCAISES/fabrice-meddour/hispanola-2-le-grand-silencieux/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/fabrice-meddour/hispanola-2-le-grand-silencieux/bds.html">hispanola 2 le grand silencieux</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/fabrice-meddour/bds.html"> Auteur: fabrice meddour</a></td>
+               </tr>
+               <tr>
+                  <td> Genre No sexe</td>
+               </tr>
+               <tr>
+                  <td>13 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/will/la-27e-lettre/bds.html"><img src="BD-FRANCAISES/will/la-27e-lettre/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/will/la-27e-lettre/bds.html">la 27e lettre</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/will/bds.html"> Auteur: will</a></td>
+               </tr>
+               <tr>
+                  <td> Genre No sexe</td>
+               </tr>
+               <tr>
+                  <td>51 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/alexandro-jodorowsky/la-caste-des-meta-barons-2-honorata-la-trisaieule/bds.html"><img src="BD-FRANCAISES/alexandro-jodorowsky/la-caste-des-meta-barons-2-honorata-la-trisaieule/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/alexandro-jodorowsky/la-caste-des-meta-barons-2-honorata-la-trisaieule/bds.html">la caste des meta barons 2 honorata la trisaieule</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/alexandro-jodorowsky/bds.html"> Auteur: alexandro jodorowsky</a></td>
+               </tr>
+               <tr>
+                  <td> Genre No sexe</td>
+               </tr>
+               <tr>
+                  <td>63 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/les-tours-de-bois-maury-1-babette/bds.html"><img src="BD-FRANCAISES/hermann/les-tours-de-bois-maury-1-babette/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/les-tours-de-bois-maury-1-babette/bds.html">les tours de bois maury 1 babette</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/bds.html"> Auteur: hermann</a></td>
+               </tr>
+               <tr>
+                  <td> Genre No sexe</td>
+               </tr>
+               <tr>
+                  <td>45 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/les-tours-de-bois-maury-11-assunta/bds.html"><img src="BD-FRANCAISES/hermann/les-tours-de-bois-maury-11-assunta/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/les-tours-de-bois-maury-11-assunta/bds.html">les tours de bois maury 11 assunta</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/bds.html"> Auteur: hermann</a></td>
+               </tr>
+               <tr>
+                  <td> Genre No sexe</td>
+               </tr>
+               <tr>
+                  <td>45 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/les-tours-de-bois-maury-12-rodrigo/bds.html"><img src="BD-FRANCAISES/hermann/les-tours-de-bois-maury-12-rodrigo/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/les-tours-de-bois-maury-12-rodrigo/bds.html">les tours de bois maury 12 rodrigo</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/bds.html"> Auteur: hermann</a></td>
+               </tr>
+               <tr>
+                  <td> Genre No sexe</td>
+               </tr>
+               <tr>
+                  <td>47 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/les-tours-de-bois-maury-2-eloise-de-montgri/bds.html"><img src="BD-FRANCAISES/hermann/les-tours-de-bois-maury-2-eloise-de-montgri/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/les-tours-de-bois-maury-2-eloise-de-montgri/bds.html">les tours de bois maury 2 eloise de montgri</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/bds.html"> Auteur: hermann</a></td>
+               </tr>
+               <tr>
+                  <td> Genre No sexe</td>
+               </tr>
+               <tr>
+                  <td>45 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/les-tours-de-bois-maury-3-germain/bds.html"><img src="BD-FRANCAISES/hermann/les-tours-de-bois-maury-3-germain/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/les-tours-de-bois-maury-3-germain/bds.html">les tours de bois maury 3 germain</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/bds.html"> Auteur: hermann</a></td>
+               </tr>
+               <tr>
+                  <td> Genre No sexe</td>
+               </tr>
+               <tr>
+                  <td>45 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/les-tours-de-bois-maury-4-reinhardt/bds.html"><img src="BD-FRANCAISES/hermann/les-tours-de-bois-maury-4-reinhardt/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/les-tours-de-bois-maury-4-reinhardt/bds.html">les tours de bois maury 4 reinhardt</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/bds.html"> Auteur: hermann</a></td>
+               </tr>
+               <tr>
+                  <td> Genre No sexe</td>
+               </tr>
+               <tr>
+                  <td>45 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/les-tours-de-bois-maury-5-alda/bds.html"><img src="BD-FRANCAISES/hermann/les-tours-de-bois-maury-5-alda/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/les-tours-de-bois-maury-5-alda/bds.html">les tours de bois maury 5 alda</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/bds.html"> Auteur: hermann</a></td>
+               </tr>
+               <tr>
+                  <td> Genre No sexe</td>
+               </tr>
+               <tr>
+                  <td>45 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/les-tours-de-bois-maury-6-sigurd/bds.html"><img src="BD-FRANCAISES/hermann/les-tours-de-bois-maury-6-sigurd/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/les-tours-de-bois-maury-6-sigurd/bds.html">les tours de bois maury 6 sigurd</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/bds.html"> Auteur: hermann</a></td>
+               </tr>
+               <tr>
+                  <td> Genre No sexe</td>
+               </tr>
+               <tr>
+                  <td>46 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/les-tours-de-bois-maury-7-william/bds.html"><img src="BD-FRANCAISES/hermann/les-tours-de-bois-maury-7-william/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/les-tours-de-bois-maury-7-william/bds.html">les tours de bois maury 7 william</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/bds.html"> Auteur: hermann</a></td>
+               </tr>
+               <tr>
+                  <td> Genre No sexe</td>
+               </tr>
+               <tr>
+                  <td>45 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/les-tours-de-bois-maury-8-le-seldjouki/bds.html"><img src="BD-FRANCAISES/hermann/les-tours-de-bois-maury-8-le-seldjouki/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/les-tours-de-bois-maury-8-le-seldjouki/bds.html">les tours de bois maury 8 le seldjouki</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/bds.html"> Auteur: hermann</a></td>
+               </tr>
+               <tr>
+                  <td> Genre No sexe</td>
+               </tr>
+               <tr>
+                  <td>46 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/les-tours-de-bois-maury-9-khaled/bds.html"><img src="BD-FRANCAISES/hermann/les-tours-de-bois-maury-9-khaled/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/les-tours-de-bois-maury-9-khaled/bds.html">les tours de bois maury 9 khaled</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/bds.html"> Auteur: hermann</a></td>
+               </tr>
+               <tr>
+                  <td> Genre No sexe</td>
+               </tr>
+               <tr>
+                  <td>45 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hausman/les-trois-cheveux-blancs/bds.html"><img src="BD-FRANCAISES/hausman/les-trois-cheveux-blancs/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hausman/les-trois-cheveux-blancs/bds.html">les trois cheveux blancs</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hausman/bds.html"> Auteur: hausman</a></td>
+               </tr>
+               <tr>
+                  <td> Genre No sexe</td>
+               </tr>
+               <tr>
+                  <td>47 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/liens-de-sang/bds.html"><img src="BD-FRANCAISES/hermann/liens-de-sang/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/liens-de-sang/bds.html">liens de sang</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/bds.html"> Auteur: hermann</a></td>
+               </tr>
+               <tr>
+                  <td> Genre No sexe</td>
+               </tr>
+               <tr>
+                  <td>53 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/manattan-beach-1957/bds.html"><img src="BD-FRANCAISES/hermann/manattan-beach-1957/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/manattan-beach-1957/bds.html">manattan beach 1957</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/bds.html"> Auteur: hermann</a></td>
+               </tr>
+               <tr>
+                  <td> Genre No sexe</td>
+               </tr>
+               <tr>
+                  <td>53 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/the-girl-from-ipanema/bds.html"><img src="BD-FRANCAISES/hermann/the-girl-from-ipanema/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/the-girl-from-ipanema/bds.html">the girl from ipanema</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hermann/bds.html"> Auteur: hermann</a></td>
+               </tr>
+               <tr>
+                  <td> Genre No sexe</td>
+               </tr>
+               <tr>
+                  <td>53 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+   </ol><a href="#top">TOP</a></div>

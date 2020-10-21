@@ -1,0 +1,813 @@
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<div id="plain" class="w3-panel w3-border">
+   <ol class="twocolumns">
+      <div class="grid-container" style="grid-auto-flow: row;">
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/A-Christmas-Tale-2016/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/A-Christmas-Tale-2016/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/A-Christmas-Tale-2016/bds.html">A Christmas Tale 2016</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>13 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/Ah-la-famille/bds.html"><img src="BD-FRANCAISES/01-BD-X/Ah-la-famille/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/Ah-la-famille/bds.html">Ah la famille</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/bds.html"> Auteur: 01 BD X</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>51 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Ana-Lucia/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/Ana-Lucia/01.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Ana-Lucia/bds.html">Ana Lucia</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>207 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Another-Chance/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/Another-Chance/01.00.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Another-Chance/bds.html">Another Chance</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>228 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Curtas/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/Curtas/01.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Curtas/bds.html">Curtas</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>75 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Discredit/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/Discredit/00.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Discredit/bds.html">Discredit</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>53 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Do-Me-A-Favor/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/Do-Me-A-Favor/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Do-Me-A-Favor/bds.html">Do Me A Favor</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>14 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Dominios/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/Dominios/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Dominios/bds.html">Dominios</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>26 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Financial-Secrecy/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/Financial-Secrecy/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Financial-Secrecy/bds.html">Financial Secrecy</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>26 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/High-School-Desires/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/High-School-Desires/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/High-School-Desires/bds.html">High School Desires</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>26 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/His-Uncle/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/His-Uncle/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/His-Uncle/bds.html">His Uncle</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>11 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Land-of-the-Lost/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/Land-of-the-Lost/01.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Land-of-the-Lost/bds.html">Land of the Lost</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>44 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Love-in-Family/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/Love-in-Family/01.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Love-in-Family/bds.html">Love in Family</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>90 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Masked-Maniac/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/Masked-Maniac/01.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Masked-Maniac/bds.html">Masked Maniac</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>165 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/My-Teacher/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/My-Teacher/01.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/My-Teacher/bds.html">My Teacher</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>56 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Seiren_com_br-Comics/Oh-Familia/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Seiren_com_br-Comics/Oh-Familia/1.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Seiren_com_br-Comics/Oh-Familia/bds.html">Oh Familia</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>262 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Parallel/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/Parallel/01.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Parallel/bds.html">Parallel</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>254 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/Premiers-plaisirs/bds.html"><img src="BD-FRANCAISES/chez-nous/Premiers-plaisirs/00.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/Premiers-plaisirs/bds.html">Premiers plaisirs</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/bds.html"> Auteur: chez nous</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>343 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Private-Class/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/Private-Class/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Private-Class/bds.html">Private Class</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>14 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Schoolgirls/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/Schoolgirls/01.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Schoolgirls/bds.html">Schoolgirls</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>113 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Seiren_com_br-Comics/Someone-Elses-Mother/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Seiren_com_br-Comics/Someone-Elses-Mother/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Seiren_com_br-Comics/Someone-Elses-Mother/bds.html">Someone Elses Mother</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>20 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Someone-Elses-Mother/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/Someone-Elses-Mother/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Someone-Elses-Mother/bds.html">Someone Elses Mother</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>20 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Suffering/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/Suffering/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Suffering/bds.html">Suffering</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>13 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/The-Adventures-of-Lia/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/The-Adventures-of-Lia/001.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/The-Adventures-of-Lia/bds.html">The Adventures of Lia</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>384 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/The-Brides-Night/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/The-Brides-Night/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/The-Brides-Night/bds.html">The Brides Night</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>17 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/The-Sportswoman/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/The-Sportswoman/01.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/The-Sportswoman/bds.html">The Sportswoman</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>448 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/The-Sting/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/The-Sting/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/The-Sting/bds.html">The Sting</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>13 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Thundarr-The-Barbarian/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/Thundarr-The-Barbarian/01.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Thundarr-The-Barbarian/bds.html">Thundarr The Barbarian</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>80 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Tudo10/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/Tudo10/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Tudo10/bds.html">Tudo10</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>33 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/While-its-Time/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/While-its-Time/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/While-its-Time/bds.html">While its Time</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>28 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Workout/bds.html"><img src="BD-EN-ANGLAIS/Seiren_com_br-Comics/Workout/01.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/Workout/bds.html">Workout</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Seiren_com_br-Comics/bds.html"> Auteur: Seiren com br Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Brésilien</td>
+               </tr>
+               <tr>
+                  <td>49 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+   </ol><a href="#top">TOP</a></div>

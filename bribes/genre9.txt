@@ -1,0 +1,3335 @@
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<div id="plain" class="w3-panel w3-border">
+   <ol class="twocolumns">
+      <div class="grid-container" style="grid-auto-flow: row;">
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-01/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-01/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-01/bds.html">Issue 01</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>29 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-02/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-02/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-02/bds.html">Issue 02</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>30 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-03/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-03/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-03/bds.html">Issue 03</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-04/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-04/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-04/bds.html">Issue 04</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>29 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-05/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-05/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-05/bds.html">Issue 05</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-06/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-06/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-06/bds.html">Issue 06</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>32 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-07/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-07/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-07/bds.html">Issue 07</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-08/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-08/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-08/bds.html">Issue 08</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>37 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-09/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-09/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-09/bds.html">Issue 09</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-10/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-10/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-10/bds.html">Issue 10</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-100/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-100/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-100/bds.html">Issue 100</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>281 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-101/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-101/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-101/bds.html">Issue 101</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>141 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-102/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-102/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-102/bds.html">Issue 102</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>142 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-11/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-11/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-11/bds.html">Issue 11</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-12/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-12/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-12/bds.html">Issue 12</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>30 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-13/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-13/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-13/bds.html">Issue 13</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>30 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-14/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-14/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-14/bds.html">Issue 14</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-15/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-15/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-15/bds.html">Issue 15</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-16/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-16/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-16/bds.html">Issue 16</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-17/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-17/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-17/bds.html">Issue 17</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-18/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-18/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-18/bds.html">Issue 18</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>29 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-19/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-19/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-19/bds.html">Issue 19</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>26 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-20/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-20/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-20/bds.html">Issue 20</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>29 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-21/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-21/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-21/bds.html">Issue 21</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-22/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-22/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-22/bds.html">Issue 22</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-23/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-23/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-23/bds.html">Issue 23</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-24/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-24/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-24/bds.html">Issue 24</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-25/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-25/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-25/bds.html">Issue 25</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-26/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-26/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-26/bds.html">Issue 26</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-27/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-27/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-27/bds.html">Issue 27</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-28/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-28/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-28/bds.html">Issue 28</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-29/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-29/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-29/bds.html">Issue 29</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-30/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-30/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-30/bds.html">Issue 30</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-31/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-31/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-31/bds.html">Issue 31</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-32/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-32/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-32/bds.html">Issue 32</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-33/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-33/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-33/bds.html">Issue 33</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-34/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-34/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-34/bds.html">Issue 34</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>28 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-35/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-35/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-35/bds.html">Issue 35</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>30 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-36/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-36/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-36/bds.html">Issue 36</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-37/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-37/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-37/bds.html">Issue 37</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-38/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-38/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-38/bds.html">Issue 38</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>32 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-39/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-39/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-39/bds.html">Issue 39</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-40/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-40/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-40/bds.html">Issue 40</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-41/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-41/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-41/bds.html">Issue 41</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-42/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-42/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-42/bds.html">Issue 42</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-43/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-43/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-43/bds.html">Issue 43</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-44/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-44/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-44/bds.html">Issue 44</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-45/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-45/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-45/bds.html">Issue 45</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-46/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-46/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-46/bds.html">Issue 46</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>32 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-47/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-47/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-47/bds.html">Issue 47</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-48/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-48/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-48/bds.html">Issue 48</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-49/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-49/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-49/bds.html">Issue 49</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-50/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-50/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-50/bds.html">Issue 50</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-51/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-51/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-51/bds.html">Issue 51</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-52/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-52/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-52/bds.html">Issue 52</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-53/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-53/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-53/bds.html">Issue 53</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-54/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-54/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-54/bds.html">Issue 54</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-55/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-55/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-55/bds.html">Issue 55</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-56/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-56/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-56/bds.html">Issue 56</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>32 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-57/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-57/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-57/bds.html">Issue 57</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>32 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-58/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-58/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-58/bds.html">Issue 58</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-59/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-59/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-59/bds.html">Issue 59</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-60/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-60/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-60/bds.html">Issue 60</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-61/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-61/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-61/bds.html">Issue 61</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>184 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-62/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-62/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-62/bds.html">Issue 62</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>182 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-63/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-63/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-63/bds.html">Issue 63</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>194 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-64/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-64/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-64/bds.html">Issue 64</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>206 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-65/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-65/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-65/bds.html">Issue 65</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>205 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-66/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-66/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-66/bds.html">Issue 66</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>185 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-67/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-67/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-67/bds.html">Issue 67</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>163 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-68/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-68/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-68/bds.html">Issue 68</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>320 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-69/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-69/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-69/bds.html">Issue 69</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>178 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-70/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-70/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-70/bds.html">Issue 70</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>178 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-71/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-71/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-71/bds.html">Issue 71</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>182 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-72/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-72/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-72/bds.html">Issue 72</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>178 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-73/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-73/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-73/bds.html">Issue 73</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>201 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-74/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-74/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-74/bds.html">Issue 74</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>205 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-75/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-75/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-75/bds.html">Issue 75</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>168 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-76/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-76/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-76/bds.html">Issue 76</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>173 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-77/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-77/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-77/bds.html">Issue 77</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>175 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-78/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-78/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-78/bds.html">Issue 78</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>164 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-79/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-79/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-79/bds.html">Issue 79</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>141 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-80/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-80/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-80/bds.html">Issue 80</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>184 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-81/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-81/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-81/bds.html">Issue 81</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>153 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-82/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-82/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-82/bds.html">Issue 82</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>155 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-83/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-83/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-83/bds.html">Issue 83</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>152 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-84/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-84/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-84/bds.html">Issue 84</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>154 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-85/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-85/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-85/bds.html">Issue 85</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>168 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-86/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-86/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-86/bds.html">Issue 86</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>151 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-87/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-87/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-87/bds.html">Issue 87</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>147 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-88/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-88/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-88/bds.html">Issue 88</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>164 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-89/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-89/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-89/bds.html">Issue 89</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>162 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-90/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-90/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-90/bds.html">Issue 90</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>168 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-91/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-91/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-91/bds.html">Issue 91</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>156 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-92/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-92/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-92/bds.html">Issue 92</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>149 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-93/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-93/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-93/bds.html">Issue 93</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>139 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-94/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-94/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-94/bds.html">Issue 94</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>139 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-95/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-95/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-95/bds.html">Issue 95</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>128 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-96/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-96/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-96/bds.html">Issue 96</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>129 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-97/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-97/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-97/bds.html">Issue 97</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>148 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-98/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-98/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-98/bds.html">Issue 98</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>146 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-99/bds.html"><img src="BD-EN-ANGLAIS/Velamma/Issue-99/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/Issue-99/bds.html">Issue 99</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma/bds.html"> Auteur: Velamma</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>140 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/Veena-Issue-01/bds.html"><img src="BD-EN-ANGLAIS/Veena/Veena-Issue-01/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/Veena-Issue-01/bds.html">Veena Issue 01</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/bds.html"> Auteur: Veena</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>33 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/Veena-Issue-02/bds.html"><img src="BD-EN-ANGLAIS/Veena/Veena-Issue-02/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/Veena-Issue-02/bds.html">Veena Issue 02</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/bds.html"> Auteur: Veena</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/Veena-Issue-03/bds.html"><img src="BD-EN-ANGLAIS/Veena/Veena-Issue-03/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/Veena-Issue-03/bds.html">Veena Issue 03</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/bds.html"> Auteur: Veena</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/Veena-Issue-04/bds.html"><img src="BD-EN-ANGLAIS/Veena/Veena-Issue-04/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/Veena-Issue-04/bds.html">Veena Issue 04</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/bds.html"> Auteur: Veena</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/Veena-Issue-05/bds.html"><img src="BD-EN-ANGLAIS/Veena/Veena-Issue-05/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/Veena-Issue-05/bds.html">Veena Issue 05</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/bds.html"> Auteur: Veena</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/Veena-Issue-06/bds.html"><img src="BD-EN-ANGLAIS/Veena/Veena-Issue-06/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/Veena-Issue-06/bds.html">Veena Issue 06</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/bds.html"> Auteur: Veena</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/Veena-Issue-07/bds.html"><img src="BD-EN-ANGLAIS/Veena/Veena-Issue-07/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/Veena-Issue-07/bds.html">Veena Issue 07</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/bds.html"> Auteur: Veena</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>30 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/Veena-Issue-08/bds.html"><img src="BD-EN-ANGLAIS/Veena/Veena-Issue-08/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/Veena-Issue-08/bds.html">Veena Issue 08</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/bds.html"> Auteur: Veena</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/Veena-Issue-09/bds.html"><img src="BD-EN-ANGLAIS/Veena/Veena-Issue-09/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/Veena-Issue-09/bds.html">Veena Issue 09</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/bds.html"> Auteur: Veena</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/Veena-Issue-10/bds.html"><img src="BD-EN-ANGLAIS/Veena/Veena-Issue-10/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/Veena-Issue-10/bds.html">Veena Issue 10</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/bds.html"> Auteur: Veena</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>34 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/Veena-Issue-11/bds.html"><img src="BD-EN-ANGLAIS/Veena/Veena-Issue-11/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/Veena-Issue-11/bds.html">Veena Issue 11</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/bds.html"> Auteur: Veena</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/Veena-Issue-12/bds.html"><img src="BD-EN-ANGLAIS/Veena/Veena-Issue-12/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/Veena-Issue-12/bds.html">Veena Issue 12</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Veena/bds.html"> Auteur: Veena</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-01/bds.html"><img src="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-01/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-01/bds.html">Velamma Dreams Issue 01</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/bds.html"> Auteur: Velamma Dreams</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>29 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-02/bds.html"><img src="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-02/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-02/bds.html">Velamma Dreams Issue 02</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/bds.html"> Auteur: Velamma Dreams</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>30 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-03/bds.html"><img src="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-03/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-03/bds.html">Velamma Dreams Issue 03</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/bds.html"> Auteur: Velamma Dreams</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>30 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-04/bds.html"><img src="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-04/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-04/bds.html">Velamma Dreams Issue 04</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/bds.html"> Auteur: Velamma Dreams</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-05/bds.html"><img src="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-05/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-05/bds.html">Velamma Dreams Issue 05</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/bds.html"> Auteur: Velamma Dreams</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>32 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-06/bds.html"><img src="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-06/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-06/bds.html">Velamma Dreams Issue 06</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/bds.html"> Auteur: Velamma Dreams</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>32 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-07/bds.html"><img src="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-07/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-07/bds.html">Velamma Dreams Issue 07</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/bds.html"> Auteur: Velamma Dreams</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>32 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-08/bds.html"><img src="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-08/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-08/bds.html">Velamma Dreams Issue 08</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/bds.html"> Auteur: Velamma Dreams</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>33 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-09/bds.html"><img src="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-09/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-09/bds.html">Velamma Dreams Issue 09</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/bds.html"> Auteur: Velamma Dreams</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-10/bds.html"><img src="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-10/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-10/bds.html">Velamma Dreams Issue 10</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/bds.html"> Auteur: Velamma Dreams</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>32 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-11/bds.html"><img src="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-11/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-11/bds.html">Velamma Dreams Issue 11</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/bds.html"> Auteur: Velamma Dreams</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>30 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-12/bds.html"><img src="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-12/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-12/bds.html">Velamma Dreams Issue 12</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/bds.html"> Auteur: Velamma Dreams</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>30 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-13/bds.html"><img src="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-13/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-13/bds.html">Velamma Dreams Issue 13</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/bds.html"> Auteur: Velamma Dreams</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-14/bds.html"><img src="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-14/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/Velamma-Dreams-Issue-14/bds.html">Velamma Dreams Issue 14</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/Velamma-Dreams/bds.html"> Auteur: Velamma Dreams</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Indien</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+   </ol><a href="#top">TOP</a></div>

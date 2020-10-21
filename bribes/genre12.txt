@@ -1,0 +1,267 @@
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<div id="plain" class="w3-panel w3-border">
+   <ol class="twocolumns">
+      <div class="grid-container" style="grid-auto-flow: row;">
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/georges-levis/a-corps-perdu/bds.html"><img src="BD-FRANCAISES/georges-levis/a-corps-perdu/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/georges-levis/a-corps-perdu/bds.html">a corps perdu</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/georges-levis/bds.html"> Auteur: georges levis</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Erotiques</td>
+               </tr>
+               <tr>
+                  <td>47 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/alexandro-jodorowsky/avant-lincal-1/bds.html"><img src="BD-FRANCAISES/alexandro-jodorowsky/avant-lincal-1/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/alexandro-jodorowsky/avant-lincal-1/bds.html">avant lincal 1</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/alexandro-jodorowsky/bds.html"> Auteur: alexandro jodorowsky</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Erotiques</td>
+               </tr>
+               <tr>
+                  <td>46 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/bertrand_dessins_erotiques/bds.html"><img src="BD-FRANCAISES/01-BD-X/bertrand_dessins_erotiques/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/bertrand_dessins_erotiques/bds.html">bertrand dessins erotiques</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/bds.html"> Auteur: 01 BD X</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Erotiques</td>
+               </tr>
+               <tr>
+                  <td>190 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/carlos-trillo/bird-1-le-tatouage/bds.html"><img src="BD-FRANCAISES/carlos-trillo/bird-1-le-tatouage/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/carlos-trillo/bird-1-le-tatouage/bds.html">bird 1 le tatouage</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/carlos-trillo/bds.html"> Auteur: carlos trillo</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Erotiques</td>
+               </tr>
+               <tr>
+                  <td>47 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/georges-levis/crimes_et_delits_1_manson_raspoutine/bds.html"><img src="BD-FRANCAISES/georges-levis/crimes_et_delits_1_manson_raspoutine/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/georges-levis/crimes_et_delits_1_manson_raspoutine/bds.html">crimes et delits 1 manson raspoutine</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/georges-levis/bds.html"> Auteur: georges levis</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Erotiques</td>
+               </tr>
+               <tr>
+                  <td>54 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/georges-levis/dodo_13_ans-01-en_presence_de_sa_tante_seulement/bds.html"><img src="BD-FRANCAISES/georges-levis/dodo_13_ans-01-en_presence_de_sa_tante_seulement/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/georges-levis/dodo_13_ans-01-en_presence_de_sa_tante_seulement/bds.html">dodo 13 ans 01 en presence de sa tante seulement</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/georges-levis/bds.html"> Auteur: georges levis</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Erotiques</td>
+               </tr>
+               <tr>
+                  <td>48 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/georges-levis/dodo_13_ans-La_petite_pensionnaire/bds.html"><img src="BD-FRANCAISES/georges-levis/dodo_13_ans-La_petite_pensionnaire/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/georges-levis/dodo_13_ans-La_petite_pensionnaire/bds.html">dodo 13 ans La petite pensionnaire</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/georges-levis/bds.html"> Auteur: georges levis</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Erotiques</td>
+               </tr>
+               <tr>
+                  <td>48 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/georges-levis/les_perles_de_l_amour/bds.html"><img src="BD-FRANCAISES/georges-levis/les_perles_de_l_amour/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/georges-levis/les_perles_de_l_amour/bds.html">les perles de l amour</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/georges-levis/bds.html"> Auteur: georges levis</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Erotiques</td>
+               </tr>
+               <tr>
+                  <td>59 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/serie-jaune/noel-de-sang/bds.html"><img src="BD-FRANCAISES/serie-jaune/noel-de-sang/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/serie-jaune/noel-de-sang/bds.html">noel de sang</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/serie-jaune/bds.html"> Auteur: serie jaune</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Erotiques</td>
+               </tr>
+               <tr>
+                  <td>104 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/serie-jaune/odyssee-pour-un-sadique/bds.html"><img src="BD-FRANCAISES/serie-jaune/odyssee-pour-un-sadique/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/serie-jaune/odyssee-pour-un-sadique/bds.html">odyssee pour un sadique</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/serie-jaune/bds.html"> Auteur: serie jaune</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Erotiques</td>
+               </tr>
+               <tr>
+                  <td>107 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+   </ol><a href="#top">TOP</a></div>

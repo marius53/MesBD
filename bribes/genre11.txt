@@ -1,0 +1,2893 @@
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<div id="plain" class="w3-panel w3-border">
+   <ol class="twocolumns">
+      <div class="grid-container" style="grid-auto-flow: row;">
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Accident/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Accident/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Accident/bds.html">Accident</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>25 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Aerobics/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Aerobics/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Aerobics/bds.html">Aerobics</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>69 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Are-You-kidding-me/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Are-You-kidding-me/1.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Are-You-kidding-me/bds.html">Are You kidding me</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>248 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Athletics/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Athletics/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Athletics/bds.html">Athletics</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>35 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/AuNaturel/bds.html"><img src="BD-FRANCAISES/01-BD-X/AuNaturel/00.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/AuNaturel/bds.html">AuNaturel</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/bds.html"> Auteur: 01 BD X</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>423 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Bath/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Bath/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Bath/bds.html">Bath</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>59 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Beach/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Beach/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Beach/bds.html">Beach</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>39 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Bloodlust/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Bloodlust/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Bloodlust/bds.html">Bloodlust</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>83 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/BlueNeck/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/BlueNeck/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/BlueNeck/bds.html">BlueNeck</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>48 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Broken-2/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Broken-2/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Broken-2/bds.html">Broken 2</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>42 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Busted/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Busted/00.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Busted/bds.html">Busted</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>320 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Cant-Sleep/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Cant-Sleep/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Cant-Sleep/bds.html">Cant Sleep</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>91 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Caught/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Caught/1.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Caught/bds.html">Caught</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>220 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Caught-and-Busted/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Caught-and-Busted/00.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Caught-and-Busted/bds.html">Caught and Busted</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>200 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/Charles-se-branle-encore/bds.html"><img src="BD-FRANCAISES/chez-nous/Charles-se-branle-encore/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/Charles-se-branle-encore/bds.html">Charles se branle encore</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/bds.html"> Auteur: chez nous</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>60 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Cheated/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Cheated/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Cheated/bds.html">Cheated</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>60 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/Claire-et-son-fils/bds.html"><img src="BD-FRANCAISES/chez-nous/Claire-et-son-fils/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/Claire-et-son-fils/bds.html">Claire et son fils</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/bds.html"> Auteur: chez nous</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>25 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/Conversation-pres-de-la-piscine/bds.html"><img src="BD-FRANCAISES/chez-nous/Conversation-pres-de-la-piscine/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/Conversation-pres-de-la-piscine/bds.html">Conversation pres de la piscine</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/bds.html"> Auteur: chez nous</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>50 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Crazy-Day/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Crazy-Day/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Crazy-Day/bds.html">Crazy Day</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>44 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Crazy-Night/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Crazy-Night/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Crazy-Night/bds.html">Crazy Night</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>54 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Cursed/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Cursed/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Cursed/bds.html">Cursed</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>138 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Deep-Trouble/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Deep-Trouble/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Deep-Trouble/bds.html">Deep Trouble</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>90 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/Crazy-Dad/Desire_Forbidden/bds.html"><img src="BD-FRANCAISES/Crazy-Dad/Desire_Forbidden/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/Crazy-Dad/Desire_Forbidden/bds.html">Desire Forbidden</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/Crazy-Dad/bds.html"> Auteur: Crazy Dad</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>1758 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Deuteronomy/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Deuteronomy/1.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Deuteronomy/bds.html">Deuteronomy</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>247 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Dont-Leave-Him/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Dont-Leave-Him/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Dont-Leave-Him/bds.html">Dont Leave Him</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>111 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Evolution/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Evolution/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Evolution/bds.html">Evolution</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>108 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Evolution-2/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Evolution-2/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Evolution-2/bds.html">Evolution 2</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>51 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Explanation/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Explanation/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Explanation/bds.html">Explanation</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>107 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/Father-in-Law-at-Home/bds.html"><img src="BD-FRANCAISES/01-BD-X/Father-in-Law-at-Home/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/Father-in-Law-at-Home/bds.html">Father in Law at Home</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/bds.html"> Auteur: 01 BD X</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>865 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Faulty-Plan/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Faulty-Plan/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Faulty-Plan/bds.html">Faulty Plan</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>198 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/FlashBack/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/FlashBack/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/FlashBack/bds.html">FlashBack</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>41 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Heavy-Sleeper-Thief/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Heavy-Sleeper-Thief/1.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Heavy-Sleeper-Thief/bds.html">Heavy Sleeper Thief</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>171 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Housewifes/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Housewifes/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Housewifes/bds.html">Housewifes</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>45 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/How-it-Happened/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/How-it-Happened/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/How-it-Happened/bds.html">How it Happened</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>70 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Inspiration/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Inspiration/1.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Inspiration/bds.html">Inspiration</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>139 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Jealousy/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Jealousy/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Jealousy/bds.html">Jealousy</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>63 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Just-Relax/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Just-Relax/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Just-Relax/bds.html">Just Relax</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>76 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Key/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Key/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Key/bds.html">Key</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>26 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Lesporne/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Lesporne/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Lesporne/bds.html">Lesporne</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>101 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Like-Whores/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Like-Whores/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Like-Whores/bds.html">Like Whores</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>110 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Lost/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Lost/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Lost/bds.html">Lost</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>98 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Lucy-and-Dad/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Lucy-and-Dad/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Lucy-and-Dad/bds.html">Lucy and Dad</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>50 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Lucy-with-Daddy/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Lucy-with-Daddy/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Lucy-with-Daddy/bds.html">Lucy with Daddy</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>45 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/Ma-s%C5%93ur-est-ma-voisine/bds.html"><img src="BD-FRANCAISES/chez-nous/Ma-s%C5%93ur-est-ma-voisine/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/Ma-s%C5%93ur-est-ma-voisine/bds.html">Ma sœur est ma voisine</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/bds.html"> Auteur: chez nous</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>25 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Machina/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Machina/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Machina/bds.html">Machina</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>120 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Meet-the-Johnsons/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Meet-the-Johnsons/1.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Meet-the-Johnsons/bds.html">Meet the Johnsons</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>227 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/More-Therapy/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/More-Therapy/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/More-Therapy/bds.html">More Therapy</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>64 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Motel/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Motel/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Motel/bds.html">Motel</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>21 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/My-Lone-Child/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/My-Lone-Child/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/My-Lone-Child/bds.html">My Lone Child</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>25 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/NLT-Tante-Sarah-nous-emm%C3%A8ne-au-spectacle/bds.html"><img src="BD-FRANCAISES/chez-nous/NLT-Tante-Sarah-nous-emm%C3%A8ne-au-spectacle/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/NLT-Tante-Sarah-nous-emm%C3%A8ne-au-spectacle/bds.html">NLT Tante Sarah nous emmène au spectacle</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/bds.html"> Auteur: chez nous</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>49 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/NadiaJimmy/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/NadiaJimmy/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/NadiaJimmy/bds.html">NadiaJimmy</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>76 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Neglect/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Neglect/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Neglect/bds.html">Neglect</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>94 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/New-Year/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/New-Year/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/New-Year/bds.html">New Year</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>46 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Njee-Sleep/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Njee-Sleep/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Njee-Sleep/bds.html">Njee Sleep</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>24 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/No-you-shouldnt/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/No-you-shouldnt/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/No-you-shouldnt/bds.html">No you shouldnt</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>95 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/OILY/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/OILY/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/OILY/bds.html">OILY</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>137 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Oily-2/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Oily-2/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Oily-2/bds.html">Oily 2</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>60 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/One-night-stand/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/One-night-stand/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/One-night-stand/bds.html">One night stand</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>61 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Parasites-of-Evil/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Parasites-of-Evil/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Parasites-of-Evil/bds.html">Parasites of Evil</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>41 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Parasites-of-Evil-2/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Parasites-of-Evil-2/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Parasites-of-Evil-2/bds.html">Parasites of Evil 2</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>95 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Passion/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Passion/0.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Passion/bds.html">Passion</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>420 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/PinUps/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/PinUps/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/PinUps/bds.html">PinUps</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>9 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Prostitute/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Prostitute/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Prostitute/bds.html">Prostitute</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>97 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/Qu-ai-je-fait/bds.html"><img src="BD-FRANCAISES/chez-nous/Qu-ai-je-fait/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/Qu-ai-je-fait/bds.html">Qu ai je fait</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/bds.html"> Auteur: chez nous</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>103 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Recruitment-Office/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Recruitment-Office/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Recruitment-Office/bds.html">Recruitment Office</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>64 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Release/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Release/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Release/bds.html">Release</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>100 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/SLEEP/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/SLEEP/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/SLEEP/bds.html">SLEEP</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>40 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Sabotage/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Sabotage/0.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Sabotage/bds.html">Sabotage</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>748 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Sauna/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Sauna/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Sauna/bds.html">Sauna</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>49 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/Secrets-de-soeurs/bds.html"><img src="BD-FRANCAISES/chez-nous/Secrets-de-soeurs/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/Secrets-de-soeurs/bds.html">Secrets de soeurs</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/bds.html"> Auteur: chez nous</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>34 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Semen-All-Over-Me/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Semen-All-Over-Me/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Semen-All-Over-Me/bds.html">Semen All Over Me</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>70 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Sleeping-Pils-1/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Sleeping-Pils-1/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Sleeping-Pils-1/bds.html">Sleeping Pils 1</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>77 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Sleeping-Pils-2/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Sleeping-Pils-2/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Sleeping-Pils-2/bds.html">Sleeping Pils 2</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>48 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Something-is-Bugging-Me/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Something-is-Bugging-Me/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Something-is-Bugging-Me/bds.html">Something is Bugging Me</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>101 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Spermpire/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Spermpire/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Spermpire/bds.html">Spermpire</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>91 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Splash/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Splash/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Splash/bds.html">Splash</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>71 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Spring-Time/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Spring-Time/1.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Spring-Time/bds.html">Spring Time</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>417 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Strangers-in-a-StrangeLand/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Strangers-in-a-StrangeLand/0.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Strangers-in-a-StrangeLand/bds.html">Strangers in a StrangeLand</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>340 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Sub-X/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Sub-X/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Sub-X/bds.html">Sub X</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>50 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Summer-is-Over/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Summer-is-Over/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Summer-is-Over/bds.html">Summer is Over</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>126 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Bang/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Bang/0.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Bang/bds.html">The Bang</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>280 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Barn/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Barn/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Barn/bds.html">The Barn</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>42 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Flowers/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Flowers/1.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Flowers/bds.html">The Flowers</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>307 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Fucking-Dead/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Fucking-Dead/0.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Fucking-Dead/bds.html">The Fucking Dead</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>478 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Holidays/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Holidays/1.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Holidays/bds.html">The Holidays</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>658 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Mix/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Mix/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Mix/bds.html">The Mix</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>100 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Order/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Order/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Order/bds.html">The Order</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>15 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Plan/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Plan/1.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Plan/bds.html">The Plan</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>496 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Prezent/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Prezent/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Prezent/bds.html">The Prezent</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>50 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Quick-One/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Quick-One/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Quick-One/bds.html">The Quick One</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>61 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Seeker/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Seeker/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Seeker/bds.html">The Seeker</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>50 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Strikes-Family/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Strikes-Family/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Strikes-Family/bds.html">The Strikes Family</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>36 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Uprising/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Uprising/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-Uprising/bds.html">The Uprising</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>159 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-old-Ring/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-old-Ring/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/The-old-Ring/bds.html">The old Ring</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>56 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/Crazy-Dad/TheGrandMa/bds.html"><img src="BD-FRANCAISES/Crazy-Dad/TheGrandMa/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/Crazy-Dad/TheGrandMa/bds.html">TheGrandMa</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/Crazy-Dad/bds.html"> Auteur: Crazy Dad</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>443 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/To-Preggo-or-Not-to-Preggo/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/To-Preggo-or-Not-to-Preggo/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/To-Preggo-or-Not-to-Preggo/bds.html">To Preggo or Not to Preggo</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>80 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/To-Three-Some-Sex/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/To-Three-Some-Sex/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/To-Three-Some-Sex/bds.html">To Three Some Sex</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>23 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Undercover/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Undercover/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Undercover/bds.html">Undercover</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>83 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Vacation/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Vacation/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Vacation/bds.html">Vacation</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>50 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/What-Have-I-Done/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/What-Have-I-Done/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/What-Have-I-Done/bds.html">What Have I Done</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>102 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Who-Did-It/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Who-Did-It/00.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Who-Did-It/bds.html">Who Did It</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>293 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Workout/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Workout/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Workout/bds.html">Workout</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>80 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Xmas/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Xmas/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Xmas/bds.html">Xmas</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>43 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Y3DFBOOK/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Y3DFBOOK/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/Y3DFBOOK/bds.html">Y3DFBOOK</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>99 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bad-boss/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bad-boss/00.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bad-boss/bds.html">bad boss</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Your3DFantasy_com-Comics/bds.html"> Auteur: Your3DFantasy com Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>493 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/bronzage/bds.html"><img src="BD-FRANCAISES/01-BD-X/bronzage/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/bronzage/bds.html">bronzage</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/bds.html"> Auteur: 01 BD X</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>226 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/mamansitter/bds.html"><img src="BD-FRANCAISES/chez-nous/mamansitter/0.002.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/mamansitter/bds.html">mamansitter</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/bds.html"> Auteur: chez nous</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>60 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/Crazy-Dad/mom_s_help/bds.html"><img src="BD-FRANCAISES/Crazy-Dad/mom_s_help/01.001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/Crazy-Dad/mom_s_help/bds.html">mom s help</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/Crazy-Dad/bds.html"> Auteur: Crazy Dad</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>1270 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/tante-sarah-nous-emmene-au-spectacle/bds.html"><img src="BD-FRANCAISES/01-BD-X/tante-sarah-nous-emmene-au-spectacle/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/tante-sarah-nous-emmene-au-spectacle/bds.html">tante sarah nous emmene au spectacle</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/bds.html"> Auteur: 01 BD X</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>49 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/AMUSTEVEN/tanya-et-le-succube/bds.html"><img src="BD-EN-ANGLAIS/AMUSTEVEN/tanya-et-le-succube/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/AMUSTEVEN/tanya-et-le-succube/bds.html">tanya et le succube</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/AMUSTEVEN/bds.html"> Auteur: AMUSTEVEN</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>81 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/porncomixonline.net/y3df-deuteronomy-2/bds.html"><img src="BD-EN-ANGLAIS/porncomixonline.net/y3df-deuteronomy-2/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/porncomixonline.net/y3df-deuteronomy-2/bds.html">y3df deuteronomy 2</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/porncomixonline.net/bds.html"> Auteur: porncomixonline.net</a></td>
+               </tr>
+               <tr>
+                  <td> Genre 3D</td>
+               </tr>
+               <tr>
+                  <td>78 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+   </ol><a href="#top">TOP</a></div>

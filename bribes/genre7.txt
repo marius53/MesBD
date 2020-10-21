@@ -1,0 +1,839 @@
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<div id="plain" class="w3-panel w3-border">
+   <ol class="twocolumns">
+      <div class="grid-container" style="grid-auto-flow: row;">
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/dany/100-blagues/bds.html"><img src="BD-FRANCAISES/dany/100-blagues/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/dany/100-blagues/bds.html">100 blagues</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/dany/bds.html"> Auteur: dany</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>70 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/gotlib/Intro/bds.html"><img src="BD-FRANCAISES/gotlib/Intro/Rhaaaaa_001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/gotlib/Intro/bds.html">Intro</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/gotlib/bds.html"> Auteur: gotlib</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>7 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/asterix-ville/bds.html"><img src="BD-FRANCAISES/01-BD-X/asterix-ville/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/asterix-ville/bds.html">asterix ville</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/bds.html"> Auteur: 01 BD X</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>11 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/honey-et-bunny/avec-un-stylo/bds.html"><img src="BD-FRANCAISES/honey-et-bunny/avec-un-stylo/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/honey-et-bunny/avec-un-stylo/bds.html">avec un stylo</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/honey-et-bunny/bds.html"> Auteur: honey et bunny</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>4 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/aidans/blagues_coquines_4/bds.html"><img src="BD-FRANCAISES/aidans/blagues_coquines_4/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/aidans/blagues_coquines_4/bds.html">blagues coquines 4</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/aidans/bds.html"> Auteur: aidans</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>104 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/dany/ca-vous-interesse/bds.html"><img src="BD-FRANCAISES/dany/ca-vous-interesse/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/dany/ca-vous-interesse/bds.html">ca vous interesse</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/dany/bds.html"> Auteur: dany</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>81 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/dany/cest-pas-serieux/bds.html"><img src="BD-FRANCAISES/dany/cest-pas-serieux/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/dany/cest-pas-serieux/bds.html">cest pas serieux</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/dany/bds.html"> Auteur: dany</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>71 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/dany/comment-osez-vous/bds.html"><img src="BD-FRANCAISES/dany/comment-osez-vous/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/dany/comment-osez-vous/bds.html">comment osez vous</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/dany/bds.html"> Auteur: dany</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>69 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/honey-et-bunny/faits-lun-pour-lautre/bds.html"><img src="BD-FRANCAISES/honey-et-bunny/faits-lun-pour-lautre/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/honey-et-bunny/faits-lun-pour-lautre/bds.html">faits lun pour lautre</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/honey-et-bunny/bds.html"> Auteur: honey et bunny</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>7 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/dany/juste-pour-rire/bds.html"><img src="BD-FRANCAISES/dany/juste-pour-rire/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/dany/juste-pour-rire/bds.html">juste pour rire</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/dany/bds.html"> Auteur: dany</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>50 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/bucquoy/la-vie-sexuelle-de-tintin/bds.html"><img src="BD-FRANCAISES/bucquoy/la-vie-sexuelle-de-tintin/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/bucquoy/la-vie-sexuelle-de-tintin/bds.html">la vie sexuelle de tintin</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/bucquoy/bds.html"> Auteur: bucquoy</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>67 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/honey-et-bunny/le-cadeau-de-mamie/bds.html"><img src="BD-FRANCAISES/honey-et-bunny/le-cadeau-de-mamie/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/honey-et-bunny/le-cadeau-de-mamie/bds.html">le cadeau de mamie</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/honey-et-bunny/bds.html"> Auteur: honey et bunny</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>7 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/paul-schuurmans/les-aventures-sexuelles-de-lucky-luke/bds.html"><img src="BD-FRANCAISES/paul-schuurmans/les-aventures-sexuelles-de-lucky-luke/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/paul-schuurmans/les-aventures-sexuelles-de-lucky-luke/bds.html">les aventures sexuelles de lucky luke</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/paul-schuurmans/bds.html"> Auteur: paul schuurmans</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>64 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hardan/les-saintes-nitouches-1/bds.html"><img src="BD-FRANCAISES/hardan/les-saintes-nitouches-1/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hardan/les-saintes-nitouches-1/bds.html">les saintes nitouches 1</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hardan/bds.html"> Auteur: hardan</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>47 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hardan/les-saintes-nitouches-2/bds.html"><img src="BD-FRANCAISES/hardan/les-saintes-nitouches-2/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hardan/les-saintes-nitouches-2/bds.html">les saintes nitouches 2</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hardan/bds.html"> Auteur: hardan</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>47 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hardan/les-saintes-nitouches-3/bds.html"><img src="BD-FRANCAISES/hardan/les-saintes-nitouches-3/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hardan/les-saintes-nitouches-3/bds.html">les saintes nitouches 3</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hardan/bds.html"> Auteur: hardan</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>46 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/harvey_kurtzman/little_annie_fanny-03-70-77/bds.html"><img src="BD-FRANCAISES/harvey_kurtzman/little_annie_fanny-03-70-77/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/harvey_kurtzman/little_annie_fanny-03-70-77/bds.html">little annie fanny 03 70 77</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/harvey_kurtzman/bds.html"> Auteur: harvey kurtzman</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>122 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/dany/on-va-plus-loin/bds.html"><img src="BD-FRANCAISES/dany/on-va-plus-loin/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/dany/on-va-plus-loin/bds.html">on va plus loin</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/dany/bds.html"> Auteur: dany</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>64 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/honey-et-bunny/porno-maison/bds.html"><img src="BD-FRANCAISES/honey-et-bunny/porno-maison/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/honey-et-bunny/porno-maison/bds.html">porno maison</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/honey-et-bunny/bds.html"> Auteur: honey et bunny</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>6 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/heran/pulsions-zerotiques-1/bds.html"><img src="BD-FRANCAISES/heran/pulsions-zerotiques-1/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/heran/pulsions-zerotiques-1/bds.html">pulsions zerotiques 1</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/heran/bds.html"> Auteur: heran</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>46 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/heran/pulsions-zerotiques-2/bds.html"><img src="BD-FRANCAISES/heran/pulsions-zerotiques-2/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/heran/pulsions-zerotiques-2/bds.html">pulsions zerotiques 2</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/heran/bds.html"> Auteur: heran</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>45 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/gotlib/rhaaaaa_gnagna_1/bds.html"><img src="BD-FRANCAISES/gotlib/rhaaaaa_gnagna_1/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/gotlib/rhaaaaa_gnagna_1/bds.html">rhaaaaa gnagna 1</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/gotlib/bds.html"> Auteur: gotlib</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>55 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/gotlib/rhaaaaa_gnagna_2/bds.html"><img src="BD-FRANCAISES/gotlib/rhaaaaa_gnagna_2/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/gotlib/rhaaaaa_gnagna_2/bds.html">rhaaaaa gnagna 2</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/gotlib/bds.html"> Auteur: gotlib</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>50 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/gotlib/rhaaaaa_inedits/bds.html"><img src="BD-FRANCAISES/gotlib/rhaaaaa_inedits/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/gotlib/rhaaaaa_inedits/bds.html">rhaaaaa inedits</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/gotlib/bds.html"> Auteur: gotlib</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>12 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/gotlib/rhaaaaa_lovely_1/bds.html"><img src="BD-FRANCAISES/gotlib/rhaaaaa_lovely_1/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/gotlib/rhaaaaa_lovely_1/bds.html">rhaaaaa lovely 1</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/gotlib/bds.html"> Auteur: gotlib</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>54 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/gotlib/rhaaaaa_lovely_2/bds.html"><img src="BD-FRANCAISES/gotlib/rhaaaaa_lovely_2/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/gotlib/rhaaaaa_lovely_2/bds.html">rhaaaaa lovely 2</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/gotlib/bds.html"> Auteur: gotlib</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>59 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/gotlib/rhaaaaa_lovely_3/bds.html"><img src="BD-FRANCAISES/gotlib/rhaaaaa_lovely_3/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/gotlib/rhaaaaa_lovely_3/bds.html">rhaaaaa lovely 3</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/gotlib/bds.html"> Auteur: gotlib</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>55 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/jaap-de-boer/stripstewardess/bds.html"><img src="BD-EN-ANGLAIS/jaap-de-boer/stripstewardess/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/jaap-de-boer/stripstewardess/bds.html">stripstewardess</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/jaap-de-boer/bds.html"> Auteur: jaap de boer</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/honey-et-bunny/une-fantasie-dete/bds.html"><img src="BD-FRANCAISES/honey-et-bunny/une-fantasie-dete/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/honey-et-bunny/une-fantasie-dete/bds.html">une fantasie dete</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/honey-et-bunny/bds.html"> Auteur: honey et bunny</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>8 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/honey-et-bunny/vas-y-entre/bds.html"><img src="BD-FRANCAISES/honey-et-bunny/vas-y-entre/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/honey-et-bunny/vas-y-entre/bds.html">vas y entre</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/honey-et-bunny/bds.html"> Auteur: honey et bunny</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>6 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/harvey_kurtzman/will_elder_playboy_s_little_annie_fanny_vol._1-1962-1965/bds.html"><img src="BD-FRANCAISES/harvey_kurtzman/will_elder_playboy_s_little_annie_fanny_vol._1-1962-1965/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/harvey_kurtzman/will_elder_playboy_s_little_annie_fanny_vol._1-1962-1965/bds.html">will elder playboy s little annie fanny vol. 1 1962 1965</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/harvey_kurtzman/bds.html"> Auteur: harvey kurtzman</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>119 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/harvey_kurtzman/will_elder_playboy_s_little_annie_fanny_vol._2-1965-1970/bds.html"><img src="BD-FRANCAISES/harvey_kurtzman/will_elder_playboy_s_little_annie_fanny_vol._2-1965-1970/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/harvey_kurtzman/will_elder_playboy_s_little_annie_fanny_vol._2-1965-1970/bds.html">will elder playboy s little annie fanny vol. 2 1965 1970</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/harvey_kurtzman/bds.html"> Auteur: harvey kurtzman</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Amusante</td>
+               </tr>
+               <tr>
+                  <td>113 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+   </ol><a href="#top">TOP</a></div>

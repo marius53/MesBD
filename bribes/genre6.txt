@@ -1,0 +1,1463 @@
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<div id="plain" class="w3-panel w3-border">
+   <ol class="twocolumns">
+      <div class="grid-container" style="grid-auto-flow: row;">
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/ANONYMES/6661-big-spirou/bds.html"><img src="BD-EN-ANGLAIS/ANONYMES/6661-big-spirou/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/ANONYMES/6661-big-spirou/bds.html">6661 big spirou</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/ANONYMES/bds.html"> Auteur: ANONYMES</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>10 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/Amanda/bds.html"><img src="BD-FRANCAISES/01-BD-X/Amanda/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/Amanda/bds.html">Amanda</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/bds.html"> Auteur: 01 BD X</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>60 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/MilfToon-Comics/CopyDad/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/MilfToon-Comics/CopyDad/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/MilfToon-Comics/CopyDad/bds.html">CopyDad</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/MilfToon-Comics/bds.html"> Auteur: MilfToon Comics</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>29 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Kirtu_com-Comics/Savita-Bhabhi/Savita-at-18/EP-04-Beauty-And-The-Nerd/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Kirtu_com-Comics/Savita-Bhabhi/Savita-at-18/EP-04-Beauty-And-The-Nerd/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Kirtu_com-Comics/Savita-Bhabhi/Savita-at-18/EP-04-Beauty-And-The-Nerd/bds.html">EP 04 Beauty And The Nerd</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Kirtu_com-Comics/Savita-Bhabhi/Savita-at-18/bds.html"> Auteur: Savita at 18</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>31 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/erich-hartman/Orgies_barbares_T01/bds.html"><img src="BD-FRANCAISES/erich-hartman/Orgies_barbares_T01/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/erich-hartman/Orgies_barbares_T01/bds.html">Orgies barbares T01</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/erich-hartman/bds.html"> Auteur: erich hartman</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>70 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/erich-hartman/Orgies_barbares_T05/bds.html"><img src="BD-FRANCAISES/erich-hartman/Orgies_barbares_T05/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/erich-hartman/Orgies_barbares_T05/bds.html">Orgies barbares T05</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/erich-hartman/bds.html"> Auteur: erich hartman</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>68 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Eurotica-Comics/Roommates/Roommates-Issue-1/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Eurotica-Comics/Roommates/Roommates-Issue-1/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Eurotica-Comics/Roommates/Roommates-Issue-1/bds.html">Roommates Issue 1</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Eurotica-Comics/Roommates/bds.html"> Auteur: Roommates</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>45 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Eurotica-Comics/Roommates/Roommates-Issue-2/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/Eurotica-Comics/Roommates/Roommates-Issue-2/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Eurotica-Comics/Roommates/Roommates-Issue-2/bds.html">Roommates Issue 2</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/Eurotica-Comics/Roommates/bds.html"> Auteur: Roommates</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>47 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ESPAGNOL/sangre-caliente/aferrada-a-tus-chupadas/bds.html"><img src="BD-EN-ESPAGNOL/sangre-caliente/aferrada-a-tus-chupadas/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ESPAGNOL/sangre-caliente/aferrada-a-tus-chupadas/bds.html">aferrada a tus chupadas</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ESPAGNOL/sangre-caliente/bds.html"> Auteur: sangre caliente</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>17 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ESPAGNOL</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/ferocius/air-libre/bds.html"><img src="BD-FRANCAISES/ferocius/air-libre/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/ferocius/air-libre/bds.html">air libre</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/ferocius/bds.html"> Auteur: ferocius</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>46 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/ivan-guevara/akerronya-the-mine/bds.html"><img src="BD-EN-ANGLAIS/ivan-guevara/akerronya-the-mine/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/ivan-guevara/akerronya-the-mine/bds.html">akerronya the mine</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/ivan-guevara/bds.html"> Auteur: ivan guevara</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>8 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/artoupan_maharaja/bds.html"><img src="BD-FRANCAISES/01-BD-X/artoupan_maharaja/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/artoupan_maharaja/bds.html">artoupan maharaja</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/bds.html"> Auteur: 01 BD X</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>56 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/bain_avec_sa_soeur/bds.html"><img src="BD-FRANCAISES/01-BD-X/bain_avec_sa_soeur/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/bain_avec_sa_soeur/bds.html">bain avec sa soeur</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/bds.html"> Auteur: 01 BD X</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>17 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/bath_with_sister-french/bds.html"><img src="BD-FRANCAISES/01-BD-X/bath_with_sister-french/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/bath_with_sister-french/bds.html">bath with sister french</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/bds.html"> Auteur: 01 BD X</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>17 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hugdebert/bel-ami/bds.html"><img src="BD-FRANCAISES/hugdebert/bel-ami/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hugdebert/bel-ami/bds.html">bel ami</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hugdebert/bds.html"> Auteur: hugdebert</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>46 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/belle-fille/bds.html"><img src="BD-FRANCAISES/01-BD-X/belle-fille/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/belle-fille/bds.html">belle fille</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/bds.html"> Auteur: 01 BD X</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>57 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/ferocius/boarding-school-for-girls/bds.html"><img src="BD-FRANCAISES/ferocius/boarding-school-for-girls/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/ferocius/boarding-school-for-girls/bds.html">boarding school for girls</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/ferocius/bds.html"> Auteur: ferocius</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>62 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/fattori/bonnie-et-claudia/bds.html"><img src="BD-FRANCAISES/fattori/bonnie-et-claudia/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/fattori/bonnie-et-claudia/bds.html">bonnie et claudia</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/fattori/bds.html"> Auteur: fattori</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>63 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/cambrioleur/bds.html"><img src="BD-FRANCAISES/chez-nous/cambrioleur/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/cambrioleur/bds.html">cambrioleur</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/chez-nous/bds.html"> Auteur: chez nous</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>12 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/chantage-amant-baise-femme-mariee/bds.html"><img src="BD-FRANCAISES/01-BD-X/chantage-amant-baise-femme-mariee/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/chantage-amant-baise-femme-mariee/bds.html">chantage amant baise femme mariee</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/bds.html"> Auteur: 01 BD X</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>20 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/fattori/club-prive/bds.html"><img src="BD-FRANCAISES/fattori/club-prive/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/fattori/club-prive/bds.html">club prive</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/fattori/bds.html"> Auteur: fattori</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>44 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/coince/bds.html"><img src="BD-FRANCAISES/01-BD-X/coince/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/coince/bds.html">coince</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/bds.html"> Auteur: 01 BD X</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>8 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/ferocius/contacts/bds.html"><img src="BD-FRANCAISES/ferocius/contacts/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/ferocius/contacts/bds.html">contacts</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/ferocius/bds.html"> Auteur: ferocius</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>60 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/erich-von-gotha/conte-a-rebours-1/bds.html"><img src="BD-FRANCAISES/erich-von-gotha/conte-a-rebours-1/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/erich-von-gotha/conte-a-rebours-1/bds.html">conte a rebours 1</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/erich-von-gotha/bds.html"> Auteur: erich von gotha</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>49 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/couple-utilise-sextoy-black-et-fantasme-cuckolding/bds.html"><img src="BD-FRANCAISES/01-BD-X/couple-utilise-sextoy-black-et-fantasme-cuckolding/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/couple-utilise-sextoy-black-et-fantasme-cuckolding/bds.html">couple utilise sextoy black et fantasme cuckolding</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/bds.html"> Auteur: 01 BD X</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>8 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/couverte-de-sperme-pour-un-no%C3%ABl-blanc/bds.html"><img src="BD-FRANCAISES/01-BD-X/couverte-de-sperme-pour-un-no%C3%ABl-blanc/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/couverte-de-sperme-pour-un-no%C3%ABl-blanc/bds.html">couverte de sperme pour un noël blanc</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/bds.html"> Auteur: 01 BD X</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>5 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/erich-von-gotha/curiosites-perverses-de-sophie/bds.html"><img src="BD-FRANCAISES/erich-von-gotha/curiosites-perverses-de-sophie/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/erich-von-gotha/curiosites-perverses-de-sophie/bds.html">curiosites perverses de sophie</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/erich-von-gotha/bds.html"> Auteur: erich von gotha</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>115 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/daddy-daughter/bds.html"><img src="BD-EN-ANGLAIS/8muses.com/daddy-daughter/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/daddy-daughter/bds.html">daddy daughter</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-EN-ANGLAIS/8muses.com/bds.html"> Auteur: 8muses.com</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>57 pages</td>
+               </tr>
+               <tr>
+                  <td>BD EN ANGLAIS</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/fattori/erika/bds.html"><img src="BD-FRANCAISES/fattori/erika/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/fattori/erika/bds.html">erika</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/fattori/bds.html"> Auteur: fattori</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>47 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/ferocius/eurygraphe/bds.html"><img src="BD-FRANCAISES/ferocius/eurygraphe/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/ferocius/eurygraphe/bds.html">eurygraphe</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/ferocius/bds.html"> Auteur: ferocius</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>60 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/ferocius/faculte-des-sciences-erotiques/bds.html"><img src="BD-FRANCAISES/ferocius/faculte-des-sciences-erotiques/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/ferocius/faculte-des-sciences-erotiques/bds.html">faculte des sciences erotiques</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/ferocius/bds.html"> Auteur: ferocius</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>46 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hugdebert/la-maison-tellier/bds.html"><img src="BD-FRANCAISES/hugdebert/la-maison-tellier/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hugdebert/la-maison-tellier/bds.html">la maison tellier</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hugdebert/bds.html"> Auteur: hugdebert</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>10 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hugdebert/lakrynos/bds.html"><img src="BD-FRANCAISES/hugdebert/lakrynos/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hugdebert/lakrynos/bds.html">lakrynos</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hugdebert/bds.html"> Auteur: hugdebert</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>46 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/aloys-oosterwijk/le-bras-arme-de-la-loi/bds.html"><img src="BD-FRANCAISES/aloys-oosterwijk/le-bras-arme-de-la-loi/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/aloys-oosterwijk/le-bras-arme-de-la-loi/bds.html">le bras arme de la loi</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/aloys-oosterwijk/bds.html"> Auteur: aloys oosterwijk</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>6 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/erich-von-gotha/le-reve-de-cecile/bds.html"><img src="BD-FRANCAISES/erich-von-gotha/le-reve-de-cecile/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/erich-von-gotha/le-reve-de-cecile/bds.html">le reve de cecile</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/erich-von-gotha/bds.html"> Auteur: erich von gotha</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>47 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/fabrizio-faina/les-bienfaits-de-la-campagne/bds.html"><img src="BD-FRANCAISES/fabrizio-faina/les-bienfaits-de-la-campagne/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/fabrizio-faina/les-bienfaits-de-la-campagne/bds.html">les bienfaits de la campagne</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/fabrizio-faina/bds.html"> Auteur: fabrizio faina</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>11 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hugdebert/les-fleurs-du-male/bds.html"><img src="BD-FRANCAISES/hugdebert/les-fleurs-du-male/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hugdebert/les-fleurs-du-male/bds.html">les fleurs du male</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hugdebert/bds.html"> Auteur: hugdebert</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>10 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/beatriz/les-petites-vicieuses-cristy-porno/bds.html"><img src="BD-FRANCAISES/beatriz/les-petites-vicieuses-cristy-porno/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/beatriz/les-petites-vicieuses-cristy-porno/bds.html">les petites vicieuses cristy porno</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/beatriz/bds.html"> Auteur: beatriz</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>7 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/beatriz/les-petites-vicieuses-on-joue-a-saute-mouton/bds.html"><img src="BD-FRANCAISES/beatriz/les-petites-vicieuses-on-joue-a-saute-mouton/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/beatriz/les-petites-vicieuses-on-joue-a-saute-mouton/bds.html">les petites vicieuses on joue a saute mouton</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/beatriz/bds.html"> Auteur: beatriz</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>7 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/beatriz/les-petites-vicieuses-psychanalyse-profonde/bds.html"><img src="BD-FRANCAISES/beatriz/les-petites-vicieuses-psychanalyse-profonde/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/beatriz/les-petites-vicieuses-psychanalyse-profonde/bds.html">les petites vicieuses psychanalyse profonde</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/beatriz/bds.html"> Auteur: beatriz</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>8 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/beatriz/les-petites-vicieuses-streaking-a-haut-risque/bds.html"><img src="BD-FRANCAISES/beatriz/les-petites-vicieuses-streaking-a-haut-risque/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/beatriz/les-petites-vicieuses-streaking-a-haut-risque/bds.html">les petites vicieuses streaking a haut risque</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/beatriz/bds.html"> Auteur: beatriz</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>7 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hugdebert/les-venus/bds.html"><img src="BD-FRANCAISES/hugdebert/les-venus/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hugdebert/les-venus/bds.html">les venus</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hugdebert/bds.html"> Auteur: hugdebert</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>46 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/les-zonards-en-folie/bds.html"><img src="BD-FRANCAISES/01-BD-X/les-zonards-en-folie/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/les-zonards-en-folie/bds.html">les zonards en folie</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/01-BD-X/bds.html"> Auteur: 01 BD X</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>50 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/carlos-villa/linca/bds.html"><img src="BD-FRANCAISES/carlos-villa/linca/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/carlos-villa/linca/bds.html">linca</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/carlos-villa/bds.html"> Auteur: carlos villa</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>46 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/fajardo/lobsede/bds.html"><img src="BD-FRANCAISES/fajardo/lobsede/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/fajardo/lobsede/bds.html">lobsede</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/fajardo/bds.html"> Auteur: fajardo</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>29 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/giorgio-cambiotti/otage-rebelle/bds.html"><img src="BD-FRANCAISES/giorgio-cambiotti/otage-rebelle/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/giorgio-cambiotti/otage-rebelle/bds.html">otage rebelle</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/giorgio-cambiotti/bds.html"> Auteur: giorgio cambiotti</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>45 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/armas/popaul-a-la-piscine/bds.html"><img src="BD-FRANCAISES/armas/popaul-a-la-piscine/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/armas/popaul-a-la-piscine/bds.html">popaul a la piscine</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/armas/bds.html"> Auteur: armas</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>6 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/fajardo/roberto-culero/bds.html"><img src="BD-FRANCAISES/fajardo/roberto-culero/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/fajardo/roberto-culero/bds.html">roberto culero</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/fajardo/bds.html"> Auteur: fajardo</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>8 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/beatriz/sara-soft-fuckraider/bds.html"><img src="BD-FRANCAISES/beatriz/sara-soft-fuckraider/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/beatriz/sara-soft-fuckraider/bds.html">sara soft fuckraider</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/beatriz/bds.html"> Auteur: beatriz</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>8 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/beatriz/sara-soft-in-arena/bds.html"><img src="BD-FRANCAISES/beatriz/sara-soft-in-arena/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/beatriz/sara-soft-in-arena/bds.html">sara soft in arena</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/beatriz/bds.html"> Auteur: beatriz</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>8 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hugdebert/train-de-nuit-1/bds.html"><img src="BD-FRANCAISES/hugdebert/train-de-nuit-1/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hugdebert/train-de-nuit-1/bds.html">train de nuit 1</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hugdebert/bds.html"> Auteur: hugdebert</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>45 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hugdebert/train-de-nuit-2/bds.html"><img src="BD-FRANCAISES/hugdebert/train-de-nuit-2/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hugdebert/train-de-nuit-2/bds.html">train de nuit 2</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hugdebert/bds.html"> Auteur: hugdebert</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>45 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/alejo/trois-amis-1-le-match/bds.html"><img src="BD-FRANCAISES/alejo/trois-amis-1-le-match/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/alejo/trois-amis-1-le-match/bds.html">trois amis 1 le match</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/alejo/bds.html"> Auteur: alejo</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>8 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/alejo/trois-amis-2-la-regle-2/bds.html"><img src="BD-FRANCAISES/alejo/trois-amis-2-la-regle-2/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/alejo/trois-amis-2-la-regle-2/bds.html">trois amis 2 la regle 2</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/alejo/bds.html"> Auteur: alejo</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>8 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hugdebert/un-amour-de-swann/bds.html"><img src="BD-FRANCAISES/hugdebert/un-amour-de-swann/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hugdebert/un-amour-de-swann/bds.html">un amour de swann</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/hugdebert/bds.html"> Auteur: hugdebert</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>44 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="w3-table w3-border">
+            <tbody align="left">
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/benedetti/vengeance-nymphomane/bds.html"><img src="BD-FRANCAISES/benedetti/vengeance-nymphomane/001.jpg" class="thumb"></a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/benedetti/vengeance-nymphomane/bds.html">vengeance nymphomane</a></td>
+               </tr>
+               <tr>
+                  <td><a target="_blank" href="BD-FRANCAISES/benedetti/bds.html"> Auteur: benedetti</a></td>
+               </tr>
+               <tr>
+                  <td> Genre Hard Couleur</td>
+               </tr>
+               <tr>
+                  <td>24 pages</td>
+               </tr>
+               <tr>
+                  <td>BD FRANCAISES</td>
+               </tr>
+               <tr>
+                  <td><button class="btndeselect"><a class="btndeselect" href="#top">T</a></button></td>
+                  <td><button class="btndeselect" onclick="closePanels()">X</button></td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+   </ol><a href="#top">TOP</a></div>
